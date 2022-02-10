@@ -1,1 +1,2 @@
-console.log('hello bob')
+var myAge = window.prompt("How old are you?")
+console.log(myAge)
